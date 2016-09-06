@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/contactsamie/backender-testbuilder.git"
+    "url": "git+https://github.com/getbackender/backender-testbuilder.git"
   },
   "keywords": [
     "backender"
@@ -17,13 +17,13 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/contactsamie/backender-testbuilder/blob/master/LICENSE"
+      "url": "https://github.com/getbackender/backender-testbuilder/blob/master/LICENSE"
     }
   ],
   "bugs": {
-    "url": "https://github.com/contactsamie/backender-testbuilder/issues"
+    "url": "https://github.com/getbackender/backender-testbuilder/issues"
   },
-  "homepage": "https://github.com/contactsamie/backender-testbuilder#readme",
+  "homepage": "https://github.com/getbackender/backender-testbuilder#readme",
   "devDependencies": {
     "app-module-path": "^1.1.0",
     "list-directory-contents": "0.0.3",
