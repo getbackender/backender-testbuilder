@@ -1,7 +1,7 @@
 {
   "name": "backender-testbuilder",
-  "version": "0.0.9",
-  "description": "gulp everything",
+  "version": "0.1.0",
+  "description": "Test builder for backender",
   "main": "backender-testbuilder.js",
   "scripts": {
     "test": "mocha -R spec test"
